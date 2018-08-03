@@ -1,0 +1,9 @@
+* {
+  background-color: lightgrey;
+}
+
+.border {
+  outline-style: dotted;
+  outline-width: thin;
+  outline-color: #ffe6ff;
+}
