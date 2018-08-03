@@ -7,3 +7,14 @@
   outline-width: thin;
   outline-color: #ffe6ff;
 }
+
+.main {
+  text-align: left;
+  margin-left: 50px;
+}
+
+#profile {
+  float: right;
+  margin-right: 50px;
+  width: 250px;
+}
