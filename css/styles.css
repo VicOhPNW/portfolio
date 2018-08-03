@@ -1,11 +1,11 @@
-* {
-  background-color: #f2f2f2;
-}
+
 
 .border {
   border-style: dotted;
-  border-width: thin;
-  border-color: blue;
+  border-width: medium;
+  border-color: #666666;
+  margin-left: 25px;
+  margin-right: 100px;
 }
 
 .main {
