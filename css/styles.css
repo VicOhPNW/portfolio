@@ -19,6 +19,15 @@
   padding-top: 30px;
 }
 
+.space-below {
+  padding-bottom: 100px;
+}
+
+.special {
+  color: #8cd9b3;
+  font-weight: bold;
+}
+
 .sub-head {
   color: #809fff;
 }
