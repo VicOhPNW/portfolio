@@ -10,8 +10,8 @@
   padding-top: 50px;
 }
 
-#jumbo {
-  padding-top: 50px;
+.space {
+  padding-top: 30px;
 }
 
 #profile-img {
@@ -19,6 +19,5 @@
   outline-style: groove;
   outline-width: thin;
   outline-color: white;
-  width: 292.5px;
-  height: 345;
+  width: 300px;
 }
