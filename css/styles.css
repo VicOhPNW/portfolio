@@ -1,21 +1,24 @@
+* {
+  background-color: #f2f2f2;
+}
 
-
-.border {
-  outline-style: dotted;
-  outline-width: thin;
-  outline-color: #ffe6ff;
+.main {
+  color:  #666666;
 }
 
 .navigation {
-  padding-top: 200px;
+  padding-top: 50px;
 }
 
-
-
-
+#jumbo {
+  padding-top: 50px;
+}
 
 #profile-img {
   float: right;
-  margin-right: 50px;
-  width: 200px;
+  outline-style: groove;
+  outline-width: thin;
+  outline-color: white;
+  width: 292.5px;
+  height: 345;
 }
