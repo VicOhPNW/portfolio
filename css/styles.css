@@ -1,6 +1,4 @@
-* {
-  background-color: lightgrey;
-}
+
 
 .border {
   outline-style: dotted;
@@ -8,13 +6,12 @@
   outline-color: #ffe6ff;
 }
 
-.main {
-  text-align: left;
-  margin-left: 50px;
-}
 
-#profile {
+
+
+
+#profile-img {
   float: right;
   margin-right: 50px;
-  width: 250px;
+  width: 200px;
 }
