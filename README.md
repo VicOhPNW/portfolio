@@ -16,9 +16,9 @@ Creation of a personal portfolio website utilizing the tools and skills learned 
 * Required content was in place by the Friday deadline.
 * Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
 * Bootstrap classes are used to style the page. his means explicitly using classes mentioned on this page, not just linking the Bootstrap stylesheet.
-* Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools.
+* Code is clean, well-refactored, and easy-to-read. This includes correct indentation, spacing, and including only necessary comments and debugging tools.
 
-
+[Click here](https://vicohpnw.github.io/portfolio/) to check out my portfolio.
 
 ## Known Bugs
 
