@@ -2,6 +2,12 @@
   background-color: #f2f2f2;
 }
 
+.border {
+  border-style: dotted;
+  border-width: thin;
+  border-color: pink;
+}
+
 .main {
   color:  #666666;
 }
